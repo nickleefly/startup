@@ -1,0 +1,24 @@
+{
+  "name": "startup",
+  "version": "0.0.1",
+  "description": "startup engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickleefly/startup.git"
+  },
+  "keywords": [
+    "startup"
+  ],
+  "author": "nickleefly",
+  "license": "MIT",
+  "gitHead": "b666ad73414d77ea6c267b2c342a76c4873b798a",
+  "dependencies": {
+    "restler": "~2.0.1",
+    "csv": "~0.3.3",
+    "accounting": "~0.3.2"
+  }
+}
